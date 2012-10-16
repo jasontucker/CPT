@@ -25,11 +25,6 @@
 	min-width: 25%;
 }
 
-#service-tabs li img {
-	float: left;
-	padding: 15px;
-}
-
 #service-tabs a {
 	color: #474747 !important;
 	font-size: 12px;
