@@ -3,7 +3,7 @@ Author: Gregg Franklin
 Tags: plugin, Custom Post Type, Shortcode
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 Creates a Custom Post Type for Frequsntly Asked Questions including custom columns, meta boxes and shortcode. 
 
